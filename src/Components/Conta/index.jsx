@@ -10,6 +10,7 @@ import { Icone, Box, Botao, Detalhe, Saldo } from "../UI";
 const IconeMargin = styled(Icone)`
   margin-top: 2px;
 `
+;
 
 const Conta = () => {
   const [toggleState, untoggle] = useState(true);
