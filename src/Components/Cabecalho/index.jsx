@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import bank_logo from "../../assets/images/bank_logo.svg";
-import { corPrimaria } from "../UI";
+import { corPrimaria } from "../UI/variaveis";
 
 const BtnCabecalho = styled.a`
   text-align: center;

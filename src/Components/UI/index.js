@@ -1,3 +1,6 @@
-export const corPrimaria = "#41d3be"
-export const fundoClaro = "#f1f1f1"
-export const textoFundoClaro = "grey"
+import styled from 'styled-components';
+
+export const Icone = styled.img`
+    height: 25px;
+    width: 25px;
+`;
